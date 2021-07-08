@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasegawa-Yukihiro&count_private=true&show_icons=true&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hasegawa-Yukihiro&rank=S,SS,SSS,A,AA,AAA,B)](https://github.com/Hasegawa-Yukihiro/github-profile-trophy)
+
