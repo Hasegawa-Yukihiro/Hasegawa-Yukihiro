@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasegawa-Yukihiro&count_private=true&show_icons=true&theme=radical)
 
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasegawa-Yukihiro&layout=compact&theme=tokyonight)](https://github.com/Hasegawa-Yukihiro/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasegawa-Yukihiro&count_private=true&layout=compact&theme=tokyonight)](https://github.com/Hasegawa-Yukihiro/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hasegawa-Yukihiro&rank=S,SS,SSS,A,AA,AAA,B)](https://github.com/Hasegawa-Yukihiro/github-profile-trophy)
 
