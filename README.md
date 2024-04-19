@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-hsgw&count_private=true&layout=compact&theme=tokyonight)](https://github.com/y-hsgw/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=y-hsgw&rank=S,SS,SSS,A,AA,AAA,B)](https://github.com/y-hsgw/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=y-hsgw&rank=S,SS,SSS,A,AA,AAA)](https://github.com/y-hsgw/github-profile-trophy)
 
