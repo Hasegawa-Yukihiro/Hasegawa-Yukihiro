@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hi🖐️ I'm Yukihiro Hasegawa.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-hsgw&count_private=true&show_icons=true&theme=radical)
 
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-hsgw&count_private=true&layout=compact&theme=tokyonight)](https://github.com/y-hsgw/)
