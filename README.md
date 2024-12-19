@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi🖐️ I'm Yukihiro Hasegawa.
+## 🧑‍💻 About Me
+Hi there 👋  I'm y-hsgw, a web developer from Japan🇯🇵 <br/>
+I enjoy working on web development, open-source projects, and always looking for new challenges.
 
+## 📈 Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-hsgw&count_private=true&show_icons=true&theme=radical)
 
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-hsgw&count_private=true&layout=compact&theme=tokyonight)](https://github.com/y-hsgw/)
