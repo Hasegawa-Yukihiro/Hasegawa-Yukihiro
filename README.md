@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🧑‍💻 About Me
-Hi there 👋  I'm y-hsgw, a web developer from Japan🇯🇵 <br/>
+Hi there 👋  I'm yukihiro hasegawa, a web developer from Japan🇯🇵 <br/>
 I enjoy working on web development, open-source projects, and always looking for new challenges.
 
 ## 📈 Status
